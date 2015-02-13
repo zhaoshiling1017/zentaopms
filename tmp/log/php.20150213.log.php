@@ -101,3 +101,101 @@
 10:00:43 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=login&referer=Lw==
 
 10:00:43 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=misc&f=checkupdate&note=
+
+10:25:02 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:25:02 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=login&referer=Lw==
+
+10:25:03 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=misc&f=checkupdate&note=
+
+10:25:05 Undefined offset: 1 in module/user/control.php on line 684 when visiting /index.php?m=user&f=login&referer=Lw==
+
+10:25:05 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=login&referer=Lw==
+
+10:25:05 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:25:05 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=my&f=index
+
+10:25:12 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=login&referer=Lw==
+
+10:25:12 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:25:15 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:25:15 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:25:15 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=my&f=index
+
+10:26:23 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:26:23 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:26:24 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=my&f=index
+
+10:27:02 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:27:02 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /
+
+10:27:03 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=my&f=index
+
+10:27:17 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=qa&f=index
+
+10:27:18 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=bug&f=browse
+
+10:27:23 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=doc&f=index
+
+10:27:23 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=doc&f=browse
+
+10:27:26 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=admin&f=index
+
+10:27:27 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=company&f=index
+
+10:27:27 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=company&f=browse
+
+10:27:40 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=manageContacts&t=html
+
+10:27:43 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=company&f=browse
+
+10:27:46 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=view&account=productManager
+
+10:27:46 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=todo&account=productManager
+
+10:27:53 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=view&account=projectManager
+
+10:27:54 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=view&account=projectManager
+
+10:27:54 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=todo&account=projectManager
+
+10:27:56 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=my&f=index
+
+10:28:03 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=logout
+
+10:28:03 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=login
+
+10:28:04 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=misc&f=checkupdate&note=
+
+10:28:05 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=user&f=login&account=tester1&password=123456
+
+10:28:05 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=index&f=index
+
+10:28:05 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=my&f=index
+
+10:28:13 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=product&f=index
+
+10:28:14 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=product&f=browse
+
+10:28:15 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=project&f=index
+
+10:28:16 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=project&f=task
+
+10:28:18 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=product&f=index
+
+10:28:18 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=product&f=browse
+
+10:28:22 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=qa&f=index
+
+10:28:22 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=bug&f=browse
+
+10:28:34 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=bug&f=edit&bugID=4
+
+10:34:41 PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/gd.so: cannot open shared object file: No such file or directory in Unknown on line 0 when visiting /index.php?m=my&f=index
